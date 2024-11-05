@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nick. I am learning the skills necessary to become a Data Analyst. Currently, I am enrolled in the Data Scientist: Analyst Career Path at Codecademy and have completed the Google Data Analytics Professional Certificate. In my free time, I enjoy watching TV and movies, trying new restaraunts, and spending time with friends.
+
+My porfolio showcases the progression of my skills. Check it out here: [Data Science Portfolio](https://github.com/nclements11/Data-Science-Portfolio)
