@@ -23,5 +23,6 @@ My porfolio showcases the progression of my skills. Check it out here: [Data Sci
 Keene State College <br>
 Bachelors of Arts: Mathematics and Statistics
 <br>
+<br>
 Coursera
 Google Data Analytics Certificate
