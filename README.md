@@ -20,9 +20,8 @@ My name is Nick. I am learning the skills necessary to become a Data Analyst. Cu
 My porfolio showcases the progression of my skills. Check it out here: [Data Science Portfolio](https://github.com/nclements11/Data-Science-Portfolio)
 
 ## Education
-Keene State College <br>
+**Keene State College** <br>
 Bachelors of Arts: Mathematics and Statistics
 <br>
 <br>
-Coursera
-Google Data Analytics Certificate
+Coursera: Google Data Analytics Certificate
